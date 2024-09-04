@@ -2,8 +2,8 @@
 
 ## Olá, entusiastas! 👋
 
-Eu sou Clédson. Tenho 6 meses de experiência em Java e estou explorando o mundo do JS há 4 meses.
-![Clédson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oRvdy&show_icons=true&theme=radical)
+Eu sou Ryverday. Tenho 6 meses de experiência em Java e estou explorando o mundo do JS há 4 meses.
+![Ryverday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oRvdy&show_icons=true&theme=radical)
 
 ## 🛠 Tecnologias & Ferramentas
 
