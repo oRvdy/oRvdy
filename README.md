@@ -1,6 +1,6 @@
-# E aí, eu sou o Orvdy!
+# E aí, eu sou o oRvdy!
 
-Salve, salve! Aqui é o Orvdy, um dev que vive tentando equilibrar café, código e uns rachas de Forza Horizon nas horas vagas. 🚗💨  
+Salve, salve! Aqui é o oRvdy, um dev que vive tentando equilibrar café, código e uns rachas de Forza Horizon nas horas vagas. 🚗💨  
 Adoro criar coisas novas, resolver problemas e aprender um pouco de tudo que a tecnologia tem a oferecer. Seja bem-vindo ao meu cantinho no GitHub! 🚀
 
 ### 🛠️ Linguagens e ferramentas que eu curto
