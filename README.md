@@ -35,6 +35,6 @@ Se quiser dar uma olhada, fique à vontade! Se tiver alguma dica ou feedback, é
 
 Se você também é daqueles que gosta de tecnologia, ou só quer bater um papo, pode me encontrar por aqui:
 
-- **Discord**: oRvdy  (ou me chama no privado aqui mesmo).
+- **Discord**: [oRvdy](https://discord.gg/oRvdy)  (ou me chama no privado aqui mesmo).
 
 Valeu por passar aqui! Se cuida e até a próxima. ✌️
