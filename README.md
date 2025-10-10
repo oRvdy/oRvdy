@@ -1,40 +1,103 @@
-# E aí, eu sou o oRvdy!
+<div align="center">
 
-Salve, salve! Aqui é o oRvdy, um dev que vive tentando equilibrar café, código e uns rachas de Forza Horizon nas horas vagas. 🚗💨  
-Adoro criar coisas novas, resolver problemas e aprender um pouco de tudo que a tecnologia tem a oferecer. Seja bem-vindo ao meu cantinho no GitHub! 🚀
+# Olá, eu sou o oRvdy! 👋
 
-### 🛠️ Linguagens e ferramentas que eu curto
+**Desenvolvedor | Criador de Soluções | Entusiasta de Tecnologia**
 
-Aqui tá um resumo das linguagens e tecnologias que eu mais uso (ou que já mexi e gostei):
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oRvdy)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oRvdy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/orvdy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oRvdy&layout=compact&theme=dracula)
+</div>
 
-- **JavaScript** - Pra fazer mágica no front e no back.
-- **Java** - Pra quem gosta de um café... ou de um código robusto. ☕ Isso aqui da trabalhando mas estamos aprendendo...
-- **C#** - Joguinho no Unity? Tô dentro!
-- **NextJS** - É parece loucura mas isso tá aqui rsrs.
-- **TypeScript** - Só JS não basta né?!
-E claro, sempre usando **Git** pra não perder o controle do caos, **Docker** pra deixar tudo bonitinho e **React** pra dar aquela cara moderna nos projetos.
+---
 
-### 📊 GitHub Stats
+## 🚀 Sobre Mim
 
-Aqui tá um resumo do que eu ando aprontando por aqui:
+Desenvolvedor apaixonado por criar soluções inovadoras e resolver problemas complexos. Adoro explorar novas tecnologias e sempre estou em busca de aprender algo novo. Quando não estou codando, você me encontra jogando ou tomando um café enquanto penso na próxima feature.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oRvdy&show_icons=true&theme=dracula)
+**"Código limpo, café forte, ideias inovadoras"** ☕
 
-Nem tudo são flores, mas tô sempre tentando melhorar! 💪
+---
 
-### 🚀 Projetos que eu curti fazer
+## 🛠️ Stack Tecnológica
 
-- **[Mizu](https://github.com/oRvdy/Mizu)** - Um BOT maneiro que fiz pra auxilias na busca de dados do MushMC direto pelo discord.
-- **[MizuDashboard](https://github.com/oRvdy/MizuDashboard)** - Uma automação que salva quem tem clans nesse joguinho, só o bot não basta.
+### Linguagens de Programação
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-Se quiser dar uma olhada, fique à vontade! Se tiver alguma dica ou feedback, é só mandar ver.
+### Frameworks & Bibliotecas
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-### 📫 Vamo trocar uma ideia?
+### Ferramentas & Tecnologias
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Se você também é daqueles que gosta de tecnologia, ou só quer bater um papo, pode me encontrar por aqui:
+---
 
-- **Discord**: [oRvdy](https://discord.gg/oRvdy)  (ou me chama no privado aqui mesmo).
+## 📊 Estatísticas do GitHub
 
-Valeu por passar aqui! Se cuida e até a próxima. ✌️
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oRvdy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oRvdy&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oRvdy&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+##  Projetos em Destaque
+
+###  Mizu Bot
+**Discord Bot para MushMC** | `JavaScript` `Node.js` `Discord.js`
+
+Um bot inteligente desenvolvido para auxiliar na busca e análise de dados do servidor MushMC diretamente pelo Discord. Interface intuitiva e funcionalidades avançadas de consulta.
+
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oRvdy/Mizu)
+
+###  Mizu Dashboard
+**Sistema de Automação e Monitoramento** | `JavaScript` `React` `Node.js`
+
+Dashboard completo para gerenciamento e automação de dados de clãs do MushMC. Interface moderna com funcionalidades de salvamento e análise de dados em tempo real.
+
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oRvdy/MizuDashboard)
+
+###  Golang Syntax
+**Coleção de Estudos em Go** | `Go` `Documentação`
+
+Repositório completo com estudos práticos da linguagem Go, organizados de forma didática com exemplos comentados e documentação detalhada.
+
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oRvdy/Golang-sintax)
+
+---
+
+## 💬 Vamos Conectar?
+
+<div align="center">
+
+**Sempre aberto para conversas sobre tecnologia, projetos colaborativos ou apenas trocar uma ideia!**
+
+[![Discord](https://img.shields.io/badge/Discord-oRvdy-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oRvdy)
+
+</div>
+
+---
+
+<div align="center">
+
+**"Código é poesia, café é combustível, e cada bug é uma oportunidade de aprender."**
+
+![Profile Views](https://komarev.com/ghpvc/?username=oRvdy&color=blueviolet&style=for-the-badge&label=Profile+Views)
+
+</div>
