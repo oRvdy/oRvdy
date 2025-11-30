@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o oRvdy! 👋
+# Olá, eu sou o JC! 👋
 
 **Desenvolvedor | Criador de Soluções | Entusiasta de Tecnologia**
 
